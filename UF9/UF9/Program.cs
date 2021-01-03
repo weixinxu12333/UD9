@@ -29,10 +29,16 @@ namespace UF9
             //PruebaPersona pruebaPersona = new PruebaPersona();
             //pruebaPersona.Inicio();
 
-            Libro libro = new Libro("J.K. Rowling", "Harry Potter", "Inglaterra");
-            Console.WriteLine("Autor: " + libro.autor);
-            Console.WriteLine("Titulo: " + libro.titulo);
-            Console.WriteLine("Ubicacion: " + libro.ubicacion);
+            //Libro libro = new Libro("J.K. Rowling", "Harry Potter", "Inglaterra");
+            //Console.WriteLine("Autor: " + libro.autor);
+            //Console.WriteLine("Titulo: " + libro.titulo);
+            //Console.WriteLine("Ubicacion: " + libro.ubicacion);
+
+            Coche coche = new Coche("Volkswagen", "Polo", 1, 80.50);
+            Console.WriteLine("Marca: " + coche.marca);
+            Console.WriteLine("Modelo: " + coche.modelo);
+            Console.WriteLine("Cilindrada: " + coche.cilindrada);
+            Console.WriteLine("Potencia: " + coche.potencia);
         }
     }
 }
