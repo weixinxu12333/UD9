@@ -34,11 +34,14 @@ namespace UF9
             //Console.WriteLine("Titulo: " + libro.titulo);
             //Console.WriteLine("Ubicacion: " + libro.ubicacion);
 
-            Coche coche = new Coche("Volkswagen", "Polo", 1, 80.50);
-            Console.WriteLine("Marca: " + coche.marca);
-            Console.WriteLine("Modelo: " + coche.modelo);
-            Console.WriteLine("Cilindrada: " + coche.cilindrada);
-            Console.WriteLine("Potencia: " + coche.potencia);
+            //Coche coche = new Coche("Volkswagen", "Polo", 1, 80.50);
+            //Console.WriteLine("Marca: " + coche.marca);
+            //Console.WriteLine("Modelo: " + coche.modelo);
+            //Console.WriteLine("Cilindrada: " + coche.cilindrada);
+            //Console.WriteLine("Potencia: " + coche.potencia);
+
+            Person p = new Person("Weixin", 24, "123456789B", "M", 45, 160);
+            p.Imprimir();
         }
     }
 }
