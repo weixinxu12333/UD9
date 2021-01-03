@@ -11,3 +11,16 @@ C:\Users\wendy\source\repos\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.csproj.CoreCompi
 C:\Users\wendy\source\repos\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.dll
 C:\Users\wendy\source\repos\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.pdb
 C:\Users\wendy\source\repos\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.genruntimeconfig.cache
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\UF9.exe
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\UF9.deps.json
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\UF9.runtimeconfig.json
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\UF9.runtimeconfig.dev.json
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\UF9.dll
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\UF9.pdb
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.csprojAssemblyReference.cache
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.AssemblyInfoInputs.cache
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.AssemblyInfo.cs
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.dll
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.pdb
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.genruntimeconfig.cache
