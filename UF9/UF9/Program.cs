@@ -20,11 +20,15 @@ namespace UF9
             //empleado2.ImprimirDatos();
             //empleado2.PagarImpuesto();
 
-            Operaciones op = new Operaciones(10,5);
-            op.suma();
-            op.resta();
-            op.multiplicar();
-            op.dividir();
+            //Operaciones op = new Operaciones(10,5);
+            //op.suma();
+            //op.resta();
+            //op.multiplicar();
+            //op.dividir();
+
+            PruebaPersona pruebaPersona = new PruebaPersona();
+            pruebaPersona.Inicio();
+
 
         }
     }
