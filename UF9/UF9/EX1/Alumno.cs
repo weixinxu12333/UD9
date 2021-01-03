@@ -6,11 +6,6 @@ namespace UF9
 {
     class Alumno
     {
-        /*
-         Plantear una clase llamada Alumno y definir como atributos su nombre y su edad.
-En el constructor realizar la carga de datos. Definir otros dos métodos para
-imprimir los datos ingresados y un mensaje si es mayor o no de edad (edad >=18)
-         */
         string nombre {get; set; }
         int edad {get; set; }
 

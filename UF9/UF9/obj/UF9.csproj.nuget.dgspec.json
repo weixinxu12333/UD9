@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wendy\\source\\repos\\UF9\\UF9\\UF9.csproj": {}
+    "C:\\Users\\wendy\\Documents\\GitHub\\UD9\\UF9\\UF9\\UF9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wendy\\source\\repos\\UF9\\UF9\\UF9.csproj": {
+    "C:\\Users\\wendy\\Documents\\GitHub\\UD9\\UF9\\UF9\\UF9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wendy\\source\\repos\\UF9\\UF9\\UF9.csproj",
+        "projectUniqueName": "C:\\Users\\wendy\\Documents\\GitHub\\UD9\\UF9\\UF9\\UF9.csproj",
         "projectName": "UF9",
-        "projectPath": "C:\\Users\\wendy\\source\\repos\\UF9\\UF9\\UF9.csproj",
+        "projectPath": "C:\\Users\\wendy\\Documents\\GitHub\\UD9\\UF9\\UF9\\UF9.csproj",
         "packagesPath": "C:\\Users\\wendy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wendy\\source\\repos\\UF9\\UF9\\obj\\",
+        "outputPath": "C:\\Users\\wendy\\Documents\\GitHub\\UD9\\UF9\\UF9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wendy\\AppData\\Roaming\\NuGet\\NuGet.Config",
