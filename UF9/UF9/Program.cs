@@ -40,8 +40,11 @@ namespace UF9
             //Console.WriteLine("Cilindrada: " + coche.cilindrada);
             //Console.WriteLine("Potencia: " + coche.potencia);
 
-            Person p = new Person("Weixin", 24, "123456789B", "M", 45, 160);
-            p.Imprimir();
+            //Person p = new Person("Weixin", 24, "123456789B", "M", 45, 160);
+            //p.Imprimir();
+
+            Password psw = new Password(10);
+            
         }
     }
 }
