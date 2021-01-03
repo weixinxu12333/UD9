@@ -26,10 +26,13 @@ namespace UF9
             //op.multiplicar();
             //op.dividir();
 
-            PruebaPersona pruebaPersona = new PruebaPersona();
-            pruebaPersona.Inicio();
+            //PruebaPersona pruebaPersona = new PruebaPersona();
+            //pruebaPersona.Inicio();
 
-
+            Libro libro = new Libro("J.K. Rowling", "Harry Potter", "Inglaterra");
+            Console.WriteLine("Autor: " + libro.autor);
+            Console.WriteLine("Titulo: " + libro.titulo);
+            Console.WriteLine("Ubicacion: " + libro.ubicacion);
         }
     }
 }
