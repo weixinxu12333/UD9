@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "X4pa9yrMAZ7bZKNPkDt3+V9j/pZW8oBW0Ru3OKrO2bP9zN1KsgJyoJljsJRAzksfJ5VhoubqFhvaB45voy5wAQ==",
+  "dgSpecHash": "DnYn3WroRItPXGCNLxfhy6g8v3I3nmEhc11et/fHc2Y/mXnhQEGfg/k4AIScLKcx0gsp5tJ8iv1NBsevlm7bMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\wendy\\Documents\\GitHub\\UD9\\UF9\\UF9\\UF9.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\wendy\\.nuget\\packages\\easyconsole\\1.1.0\\easyconsole.1.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"EasyConsole 1.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "EasyConsole",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "UF9/1.0.0": {
+        "dependencies": {
+          "EasyConsole": "1.1.0"
+        },
         "runtime": {
           "UF9.dll": {}
+        }
+      },
+      "EasyConsole/1.1.0": {
+        "runtime": {
+          "lib/net452/EasyConsole.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EasyConsole/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fEBI56S+m8g3VXRFHYxf9a9VUmBAkT8WZXFpRVou7cDTWmAEaloSWyXPHG7tHfUt+wkBovc9GSzZohuYdpWcsQ==",
+      "path": "easyconsole/1.1.0",
+      "hashPath": "easyconsole.1.1.0.nupkg.sha512"
     }
   }
 }

@@ -24,3 +24,5 @@ C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.csproj.C
 C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.dll
 C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.pdb
 C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.genruntimeconfig.cache
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\bin\Debug\netcoreapp3.1\EasyConsole.dll
+C:\Users\wendy\Documents\GitHub\UD9\UF9\UF9\obj\Debug\netcoreapp3.1\UF9.csproj.CopyComplete
