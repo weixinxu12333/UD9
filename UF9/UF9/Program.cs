@@ -31,8 +31,11 @@ namespace UF9
 
             // Password psw = new Password(10);
 
-            Electrodomestico el = new Electrodomestico(20, "Negro", 'B', 10);
-            el.Imprimir();
+            //Electrodomestico el = new Electrodomestico(20, "Negro", 'B', 10);
+            //el.Imprimir();
+
+            Serie serie = new Serie("Yanxi Palace: Princess Adventures", "Chinese Drama", "Netflix", 1);
+            Console.WriteLine(serie);
         }
     }
 }
