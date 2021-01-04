@@ -6,12 +6,8 @@ namespace UF9
 {
     class Operaciones
     {
-        int val1 { get; set; }
-        int val2 { get; set; }
-
-        public Operaciones()
-        {
-        }
+        private int val1 { get; set; }
+        private int val2 { get; set; }
 
         public Operaciones(int val1, int val2)
         {
@@ -39,7 +35,7 @@ namespace UF9
 
         public void dividir()
         {
-            int res = val1 / val2;
+            double res = (double)val1 / val2;
             Console.WriteLine("dividir = " + res);
         }
     }

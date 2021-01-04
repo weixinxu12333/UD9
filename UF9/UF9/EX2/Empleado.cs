@@ -6,12 +6,8 @@ namespace UF9
 {
     class Empleado
     {
-        public string nombre { get; set; }
-        public double sueldo { get; set; }
-
-        public Empleado()
-        {
-        }
+        private string nombre;
+        private double sueldo;
 
         public Empleado(string nombre, double sueldo)
         {

@@ -6,7 +6,7 @@ namespace UF9
 {
     class Persona
     {
-        string nombre { get; set; }
+        private string nombre { get; set; }
 
         public Persona()
         {

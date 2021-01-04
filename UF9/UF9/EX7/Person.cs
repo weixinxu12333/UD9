@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,28 +8,20 @@ namespace UF9
     {
         private string nombre { get; set; }
         private int edad { get; set; }
-        private string dni { get; set; }
-        private string sexo { get; set; }
+        private string dni { get; set; } = "123456789A";
+        private string sexo { get; set; } = GENERO;
         private double peso { get; set; }
         private double altura { get; set; }
 
-        private const string GENERO = "M";
+        private const string GENERO = "H";
 
-        public Person()
-        {
-            this.nombre = "";
-            this.edad = 0;
-            this.dni = "123456789A";
-            this.sexo = GENERO;
-            this.peso = 0;
-            this.altura = 0;
-        }
+        public Person() { }
 
         public Person(string nombre, int edad, string sexo)
         {
             this.nombre = nombre;
             this.edad = edad;
-            this.sexo = GENERO;
+            this.sexo = sexo;
         }
 
         public Person(string nombre, int edad, string dni, string sexo, double peso, double altura)
@@ -37,7 +29,7 @@ namespace UF9
             this.nombre = nombre;
             this.edad = edad;
             this.dni = dni;
-            this.sexo = GENERO;
+            this.sexo = sexo;
             this.peso = peso;
             this.altura = altura;
         }
