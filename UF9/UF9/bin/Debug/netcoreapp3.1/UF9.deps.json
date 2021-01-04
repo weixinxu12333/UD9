@@ -8,17 +8,17 @@
     ".NETCoreApp,Version=v3.1": {
       "UF9/1.0.0": {
         "dependencies": {
-          "EasyConsole": "1.1.0"
+          "EasyConsole.Netstandard": "1.0.0"
         },
         "runtime": {
           "UF9.dll": {}
         }
       },
-      "EasyConsole/1.1.0": {
+      "EasyConsole.Netstandard/1.0.0": {
         "runtime": {
-          "lib/net452/EasyConsole.dll": {
-            "assemblyVersion": "1.1.0.0",
-            "fileVersion": "1.1.0.0"
+          "lib/netstandard2.0/EasyConsole.Netstandard.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -30,12 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EasyConsole/1.1.0": {
+    "EasyConsole.Netstandard/1.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-fEBI56S+m8g3VXRFHYxf9a9VUmBAkT8WZXFpRVou7cDTWmAEaloSWyXPHG7tHfUt+wkBovc9GSzZohuYdpWcsQ==",
-      "path": "easyconsole/1.1.0",
-      "hashPath": "easyconsole.1.1.0.nupkg.sha512"
+      "sha512": "sha512-aVJ7GMeP880lM5/AT97YTVVhaBtDDpWq1xBa7cZ1Em87xJqRbOkuxCkGFQTJKJNCpdtaUO6bzJOyeW96DBoa9w==",
+      "path": "easyconsole.netstandard/1.0.0",
+      "hashPath": "easyconsole.netstandard.1.0.0.nupkg.sha512"
     }
   }
 }

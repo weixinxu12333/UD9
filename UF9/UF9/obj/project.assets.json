@@ -2,34 +2,34 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "EasyConsole/1.1.0": {
+      "EasyConsole.Netstandard/1.0.0": {
         "type": "package",
         "compile": {
-          "lib/net452/EasyConsole.dll": {}
+          "lib/netstandard2.0/EasyConsole.Netstandard.dll": {}
         },
         "runtime": {
-          "lib/net452/EasyConsole.dll": {}
+          "lib/netstandard2.0/EasyConsole.Netstandard.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EasyConsole/1.1.0": {
-      "sha512": "fEBI56S+m8g3VXRFHYxf9a9VUmBAkT8WZXFpRVou7cDTWmAEaloSWyXPHG7tHfUt+wkBovc9GSzZohuYdpWcsQ==",
+    "EasyConsole.Netstandard/1.0.0": {
+      "sha512": "aVJ7GMeP880lM5/AT97YTVVhaBtDDpWq1xBa7cZ1Em87xJqRbOkuxCkGFQTJKJNCpdtaUO6bzJOyeW96DBoa9w==",
       "type": "package",
-      "path": "easyconsole/1.1.0",
+      "path": "easyconsole.netstandard/1.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "easyconsole.1.1.0.nupkg.sha512",
-        "easyconsole.nuspec",
-        "lib/net452/EasyConsole.dll"
+        "easyconsole.netstandard.1.0.0.nupkg.sha512",
+        "easyconsole.netstandard.nuspec",
+        "lib/netstandard2.0/EasyConsole.Netstandard.dll"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "EasyConsole >= 1.1.0"
+      "EasyConsole.Netstandard >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,9 +71,9 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
-          "EasyConsole": {
+          "EasyConsole.Netstandard": {
             "target": "Package",
-            "version": "[1.1.0, )"
+            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -94,17 +94,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "El paquete \"EasyConsole 1.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
-      "libraryId": "EasyConsole",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }
